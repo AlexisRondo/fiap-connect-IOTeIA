@@ -137,11 +137,3 @@ fiap-connect-ia/
 ## Vídeo de apresentação
 
 [Link do YouTube — não listado]
-
-## Próximos passos (Sprint 4)
-
-1. Criar API Flask com endpoint `/predict`
-2. Empacotar em container Docker
-3. Hospedar a API (Render.com ou similar)
-4. Integrar Oracle APEX com a API Flask via REST
-5. Testar no app mobile
