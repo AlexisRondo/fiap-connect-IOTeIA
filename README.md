@@ -136,4 +136,4 @@ fiap-connect-ia/
 
 ## Vídeo de apresentação
 
-[Link do YouTube — não listado]
+https://youtu.be/ZNkQW2rQ93Y
